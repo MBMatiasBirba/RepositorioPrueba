@@ -1,2 +1,2 @@
 # RepositorioPrueba
-Repositorio en Git Hub para clonar en repositorio local
+Ya quedo clonado este repositorio web
